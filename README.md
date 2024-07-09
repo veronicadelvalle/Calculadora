@@ -21,6 +21,7 @@ Este proyecto está inspirado en un desafío tomado de la web [Pixabay](https://
 ## 👩‍💻 Participantes
 
 - **[GITHUB: Verónica Del Valle (Profesora)](https://github.com/veronicadelvalle)** - [LinkedIn](https://www.linkedin.com/in/usuario1/)
+- **[GITHUB: Mauricio Maza]()** - [LinkedIn]()
 
 ## 🏆🥇 Proyecto terminado  [LINK: Proyecto a terminar]()
 
