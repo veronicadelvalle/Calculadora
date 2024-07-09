@@ -30,4 +30,4 @@ Queremos agradecer a todos los participantes y colaboradores por su dedicación 
 
 ---
 
-¡Gracias por visitar nuestro Recetario Colaborativo! Esperamos que disfrutes de las recetas y encuentres útil nuestro proyecto para mejorar tus habilidades en HTML y CSS. ¡Feliz codificación y buen provecho! 🍽️
+¡Gracias por visitar nuestro proyecto!
