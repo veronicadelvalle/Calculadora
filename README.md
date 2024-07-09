@@ -1,3 +1,23 @@
+# Calculadora Sencilla
+
+## Descripción
+
+Este proyecto es una calculadora sencilla desarrollada con HTML, CSS y JavaScript. El objetivo es proporcionar una herramienta básica para realizar operaciones aritméticas simples como suma, resta, multiplicación y división. El proyecto ha sido realizado en colaboración con un grupo de programadores.
+
+## Tecnologías Utilizadas
+
+- **HTML**: Para la estructura básica del documento.
+- **CSS**: Para la presentación y el diseño visual.
+  - `normalize.css`: Para normalizar los estilos entre diferentes navegadores.
+  - `style.css`: Para los estilos personalizados de la calculadora.
+- **JavaScript**: Para la lógica de las operaciones de la calculadora.
+- **Font Awesome**: Para los iconos de los botones de operación.
+- **Favicon**: Imagen del icono de la calculadora.
+
+## Estructura del Proyecto
+
+El proyecto tiene la siguiente estructura de archivos:
+
 
 ## Personalización
 
